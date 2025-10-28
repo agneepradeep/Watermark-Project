@@ -1,0 +1,15 @@
+# VS Code settings folder
+.vscode/
+
+# Python virtual environment folder
+venv/
+.venv/
+
+# Optional: Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
